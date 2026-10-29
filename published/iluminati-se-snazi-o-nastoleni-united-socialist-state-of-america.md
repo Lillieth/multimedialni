@@ -16,16 +16,20 @@ last_updated: "2026-05-15"
 review_state: "draft"
 ---
 ## Shrnutí
-Tento narativ tvrdí, že tajná společnost iluminátů usiluje o vnitřní rozvrat Spojených států amerických s cílem přeměnit je na totalitní socialistický útvar označovaný jako „United Socialist State of America“ (USSA). Podle této teorie jsou progresivní politické reformy, sociální programy a mezinárodní spolupráce ve skutečnosti skrytými kroky k nastolení komunistického režimu, který má být podřízen centrální světové vládě.
+Ilumináti mají podle této představy usilovat o přeměnu Spojených států v totalitní socialistický stát označovaný jako „United Socialist State of America“ neboli USSA. Progresivní reformy jsou vykládány jako kroky k omezení svobody a soukromého vlastnictví. Výsledný režim se má stát součástí světové vlády spojované s Novým světovým řádem.
 
-Konspirace čerpá z rámce teorií o Novém světovém řádu (NWO) a využívá dlouhodobě zakořeněného amerického odporu ke komunismu a socialismu. Přesvědčivost narativu pro určité skupiny obyvatel spočívá v reinterpretaci reálných politických a společenských změn jako důkazů tajného plánu, přičemž využívá prvky populární kultury a fiktivní koncepty, které vydává za uniklé scénáře budoucího vývoje.
+Teorie využívá americký odpor ke komunismu a socialismu. Politické změny nevykládá jako výsledek voleb, veřejné debaty a rozhodování institucí, ale jako součást předem připraveného plánu. Za důkaz tak může označit téměř každou reformu, která rozšiřuje roli státu.
+
+Současná představa iluminátů jako organizace ovládající politiku, finance a média však nemá historický základ. Ve 20. století ji pomohly rozšířit knihy, satira a mystifikace. Některé původně smyšlené příběhy začali lidé postupně přijímat jako skutečnost.
 
 ## Ověření
-Koncept „United Socialist State of America“ je prokazatelně literární fikcí. Kniha „Back in the USSA“ od Eugena Byrneho a Kima Newmana byla publikována jako umělecké dílo zkoumající scénář „co by se stalo, kdyby“, nikoliv jako dokumentace politických záměrů [1]. Neexistují žádné historické ani současné důkazy o tom, že by tajná společnost iluminátů (která byla rozpuštěna v roce 1785) existovala v moderní podobě nebo měla vliv na politický systém USA.
+Skutečný řád iluminátů založil Adam Weishaupt v Bavorsku roku 1776. Organizace vycházela z osvícenských myšlenek a vystupovala proti vlivu církve a tehdejších elit. Bavorská vláda tajné společnosti zakázala a řád byl v roce 1785 rozpuštěn. Neexistují důkazy, že přežil jako světová organizace nebo že dnes ovládá politiku Spojených států.
 
-Zavádějící charakter narativu spočívá v záměrném směšování demokratického socialismu, sociálně-demokratických politik nebo progresivního liberalismu s autoritářským komunismem sovětského typu. Politologické analýzy potvrzují, že americký politický systém je postaven na ústavních brzdách a rovnováhách, které znemožňují náhlou transformaci státu v totalitní útvar bez rozsáhlých ústavních změn [2].
+Označení „United Socialist State of America“ navíc pochází z oblasti fikce. Kniha Back in the USSA od Eugena Byrneho a Kima Newmana vyšla v roce 1997 jako alternativní historie. Popisuje smyšlený vývoj Spojených států, nikoliv skutečný politický plán.
 
-Reálným základem, který narativ překrucuje, je existence politických debat o míře státních zásahů do ekonomiky (např. Affordable Care Act nebo Green New Deal). Zatímco v legitimním politickém diskurzu jde o spory o efektivitu a rozsah sociálního státu, konspirační narativ tyto debaty interpretuje jako přípravnou fázi pro nastolení diktatury [3].
+Teorie také spojuje rozdílné politické směry. Demokratický socialismus, sociální demokracie, progresivní liberalismus a autoritářský komunismus nejsou stejné systémy. Programy jako Affordable Care Act nebo návrhy Green New Dealu jsou součástí sporů o rozsah státních zásahů, sociální politiku a veřejné výdaje. Jejich existence nedokazuje přípravu diktatury ani působení iluminátů.
+
+Příběh o vzniku USSA tedy spojuje skutečné politické debaty, historickou organizaci a literární fikci. Nabízí jednoduché vysvětlení společenských změn, ale nepředkládá důkazy o existenci tajného plánu.
 
 ## Šíření v ČR/SR
 - Protiproud — článek — texty varující před „socialistickou revolucí“ v USA pod taktovkou globálních elit a iluminátů — https://www.protiproud.info/
@@ -36,5 +40,5 @@ Reálným základem, který narativ překrucuje, je existence politických debat
 
 ## Zdroje
 - [1] The Encyclopedia of Science Fiction: Byrne, Eugene — https://sf-encyclopedia.com/entry/byrne_eugene
-- [2] Reuters Fact Check: False claims of a socialist coup in the United States — https://www.reuters.com/article/factcheck-usa-socialism-idUSL1N2P91S0
+- [2] The accidental invention of the Illuminati conspiracy — [https://www.reuters.com/article/factcheck-usa-socialism-idUSL1N2P91S0](https://www.bbc.com/future/article/20170809-the-accidental-invention-of-the-illuminati-conspiracy)
 - [3] Snopes: Is the U.S. Moving Toward a 'United Socialist States of America'? — https://www.snopes.com/fact-check/socialist-states-of-america/
